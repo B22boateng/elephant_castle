@@ -1,2 +1,2 @@
-This source code is built on Poll scm which automatically treiggerrs any update made on the source code
+This source code is built on Poll scm which automatically triggers any update made on the source code
 this
